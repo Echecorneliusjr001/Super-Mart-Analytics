@@ -6,6 +6,8 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
+---
+
 In the age of big data, supermarkets collect a massive amount of sales data daily. This project leverages the power of data analysis and visualization to gain valuable insights from a fictional supermarket's sales dataset. Using tools like Excel for data cleaning and transformation, and Power BI for analysis and visualization, we aim to uncover patterns, make data-driven decisions, and enhance business strategies.
 
 ![Supermart Excel chart](https://github.com/Echecorneliusjr001/Super-Mart-Analytics/assets/149030759/b61de9b3-0d15-40c0-808d-d8acca115dee)
@@ -70,5 +72,4 @@ I had to remove all zero from my total tax & cost of goods columns which could h
  
 
 
-				
-					
+									
