@@ -8,6 +8,13 @@
 ### Project Overview
 In the age of big data, supermarkets collect a massive amount of sales data daily. This project leverages the power of data analysis and visualization to gain valuable insights from a fictional supermarket's sales dataset. Using tools like Excel for data cleaning and transformation, and Power BI for analysis and visualization, we aim to uncover patterns, make data-driven decisions, and enhance business strategies.
 
+![Supermart Excel chart](https://github.com/Echecorneliusjr001/Super-Mart-Analytics/assets/149030759/b61de9b3-0d15-40c0-808d-d8acca115dee)
+
+
+![Supermart PowerBI chart](https://github.com/Echecorneliusjr001/Super-Mart-Analytics/assets/149030759/4e52c4ad-2ea1-4410-b596-98e4569cae44)
+
+
+
 ### Data Sources
 The primary dataset used is 'supermarket_sales.xlsx' file containing detailed information for each sales made in different months, on various product lines and in different l0ocalities by the supermart.
 
