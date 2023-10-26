@@ -30,10 +30,17 @@ In the initial data preparation phase,
 2. Handling missing values.
 3. Data cleaning & Formatting Using Power query.
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis (EDA)
+EDA involves exploring  sales data, to answer key questions. such as:
 - Which locality has the highest sales.
+- ![Screenshot (10)](https://github.com/Echecorneliusjr001/Super-Mart-Analytics/assets/149030759/2122c2a8-29ae-4a67-a9e0-62956a4f9b4d)
+
 - Which Product line has the highest sales.
-- What is the peak period with the miost sales.
+![Screenshot (9)](https://github.com/Echecorneliusjr001/Super-Mart-Analytics/assets/149030759/97f2a51f-826e-49c0-87e1-01f7fe0ab0f3)
+
+  
+- What is the peak period with the most sales.
+  
 - The most used payement type for purchase of products.
 
 ### Results/Fiindings
