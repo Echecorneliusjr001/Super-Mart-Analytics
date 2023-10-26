@@ -1,4 +1,4 @@
-#  Business Sales Analysis
+# Supermart Sales Analysis
 
 ## Table of Contents
 - [Project Overview](#project-overview)
