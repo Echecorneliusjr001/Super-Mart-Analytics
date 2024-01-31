@@ -18,7 +18,7 @@ In the age of big data, supermarkets collect a massive amount of sales data dail
 
 
 ### Data Sources
-The primary dataset used is 'supermarket_sales.xlsx' file containing detailed information for each sales made in different months, on various product lines and in different l0ocalities by the supermart.
+The primary dataset used is 'supermarket_sales.xlsx' file containing detailed information for each sales made in different months, on various product lines and in different localities by the supermart.
 
 ### Tools
 - Power query- Data cleaning, 
